@@ -1,0 +1,122 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smartbuilders.com" resolutions="1x" timestamp="1568663079334">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="510828464" ref="index"/>
+    <file name="index.css" crc="292901708" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="96785a4f7affaadeeeda0ac6adc43eff.jpg" crc="4292701440" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sb.png" crc="4003425488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="amazon-award-1-683x1024-copy-1-683x1024.png" crc="208016407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="realty-india-awards-bg1.jpg" crc="296188206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images.jpg" crc="4294260110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="times realty icons-district1.jpg" crc="3794100355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="estate-awards-2012.jpg" crc="4150547348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="009-monte-serino-residence-modern-house-architects.jpg" crc="3794965976" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="009-monte-serino-residence-modern-house-architects461x323.jpg" crc="3989385912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-design-compact-carpet-boundary-wall-grill-design-wall-decor-new-stanley-home-designs-768x512.jpg" crc="28714552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-kk-nagar-house-exterior-1.jpg" crc="4276449694" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-kk-nagar-house-exterior-1-buttonu1193-fr.jpg" crc="139147891" ref="index"/>
+    <file name="92935757.jpg" crc="4008507432" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="92935757-buttonu1410-fr.jpg" crc="4002435893" ref="index"/>
+    <file name="414e95a7-f89f-48d2-8ca6-823a8539a8ed.png" crc="200202313" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="414e95a7-f89f-48d2-8ca6-823a8539a8ed-buttonu1420-fr.png" crc="292401675" ref="index"/>
+    <file name="80523373295b79f2245cf8077e40b7b7.jpg" crc="10422354" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indian-modern-house-plans-house-design-architecture-plans-in-plan-shop-new-ideas-best-modern-inspirations-brick-modern-duplex-house-plans-india-buttonu1437-fr.jpg" crc="4262312949" ref="index"/>
+    <file name="modern-house-exterior-designs-in-india-homes-paint-colors-contemporary-home-design-ideas-new-latest-improvement-stunning-des-buttonu1442-fr.jpg" crc="3969713698" ref="index"/>
+    <file name="359275_b8h3w5pvuvgotbwklphy4mado-buttonu1446-fr.jpg" crc="4250655155" ref="index"/>
+    <file name="exterior-house-design-ideas-philippines-small-pictures-home-india-modern-with-swimming-pool-beach-facades-decorating-drop-dead-g-buttonu1450-fr.jpg" crc="4040486608" ref="index"/>
+    <file name="u1-copy.jpg" crc="294573728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider-1.jpg" crc="4239940134" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-buttonu1697-fr.jpg" crc="203898531" ref="index"/>
+    <file name="28516513_1245252832286358_8011452185572097698_o-buttonu1714-fr.jpg" crc="481943794" ref="index"/>
+    <file name="kitchen-interior-designers-bangalore-buttonu1778-fr.jpg" crc="4286222018" ref="index"/>
+    <file name="kids-bedroom-interior-design-bangalore-buttonu1794-fr.jpg" crc="406253469" ref="index"/>
+    <file name="maxresdefault-buttonu1746-fr.jpg" crc="161180699" ref="index"/>
+    <file name="maxresdefa1ult (1)-buttonu1730-fr.jpg" crc="3883085153" ref="index"/>
+    <file name="interior-design-company-buttonu1762-fr.jpg" crc="131400818" ref="index"/>
+    <file name="interior-designers-bangalore-1-buttonu1810-fr.jpg" crc="4215010824" ref="index"/>
+    <file name="simple-indian-house-design-pictures-2.jpg" crc="4155861464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c92a154680ac23f1fef16909f8206c69.jpg" crc="4160032138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05ab5d3015dffc4902d4a37042d9f13c.jpg" crc="4288315049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="545778976c0833f011a4128af5b8656a-crop-u2464.jpg" crc="3892875750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4673aa52499db79d2712c22aee51897f-crop-u2474.jpg" crc="3933285259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indian-house-design-simple-house-design-pictures-awesome-easy-front-with-simple-modern-home-design-crop-u2484.jpg" crc="3997327012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="budget-homes-in-palakkad-crop-u2494.jpg" crc="290614199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="colonial-type-law-budget-homes-in-kerala-600x315-crop-u2504.jpg" crc="313435069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-bedroom-house-for-sale-in-pasong-camachile-ii-cavite-crop-u2514.jpg" crc="3989251035" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero_home1.jpg" crc="485073239" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="261537433" seo="true" mt="1568662610255" redirect="true"/>
+</manifest>
