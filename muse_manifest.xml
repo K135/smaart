@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smartbuilders.com" resolutions="1x" timestamp="1568663596016">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smartbuilders.com" resolutions="1x" timestamp="1568664862176">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="510828464" ref="index"/>
-    <file name="index.css" crc="4081208059" ref="index"/>
+    <file name="index.css" crc="292901708" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -116,13 +116,7 @@
     <file name="hero_home1.jpg" crc="485073239" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sf-sonic-pc-1000l-500x500.jpg" crc="4261326096" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sf-sonic-pc-1000l-500x500-buttonu1437-fr.jpg" crc="85423133" ref="index"/>
-    <file name="sf-sonic-pc-1000l-500x500143x143.jpg" crc="70627463" seo="true" ref="index">
-      <caption webpage="index" alt="Two wheeler Battery"/>
-    </file>
+    <file name="indian-modern-house-plans-house-design-architecture-plans-in-plan-shop-new-ideas-best-modern-inspirations-brick-modern-duplex-house-plans-india-buttonu1437-fr.jpg" crc="4262312949" ref="index"/>
   </folder>
-  <file name="index.html" crc="3917709538" seo="true" mt="1568663298607" redirect="true"/>
+  <file name="index.html" crc="261537433" seo="true" mt="1568664850944" redirect="true"/>
 </manifest>
