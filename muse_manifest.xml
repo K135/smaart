@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smartbuilders.com" resolutions="1x" timestamp="1573986789615">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smartbuilders.com" resolutions="1x" timestamp="1573994991267">
   <folder name="assets">
     <file name="civil_constructors_painting_in_bangalore.jp2" crc="367600293" seo="true" mt="1573880226000"/>
   </folder>
@@ -16,7 +16,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4148298215"/>
     <file name="master_a-master.css" crc="2477258" ref="index:interiors:building:untitled-4"/>
-    <file name="index.css" crc="3981081000" ref="index"/>
+    <file name="index.css" crc="4178189916" ref="index"/>
     <file name="interiors.css" crc="258370605" ref="interiors"/>
     <file name="building.css" crc="271258122" ref="building"/>
     <file name="untitled-4.css" crc="184016512" ref="untitled-4"/>
@@ -697,7 +697,7 @@
       <caption webpage="index" alt="civil contractor bangalore alluminium frabrication"/>
     </file>
   </folder>
-  <file name="index.html" crc="3884125346" seo="true" mt="1573985527091" redirect="true"/>
+  <file name="index.html" crc="473318310" seo="true" mt="1573994531448" redirect="true"/>
   <file name="building.html" crc="3762808203" seo="true" mt="1573965080705" redirect="true"/>
   <file name="interiors.html" crc="431118086" seo="true" mt="1573965080705" redirect="true"/>
   <file name="untitled-4.html" crc="3869701971" seo="true" mt="1573965080705" redirect="true"/>
