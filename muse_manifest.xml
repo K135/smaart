@@ -1,4 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smartbuilders.com" resolutions="1x" timestamp="1570709890870">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smartbuilders.com" resolutions="1x" timestamp="1573986789615">
+  <folder name="assets">
+    <file name="civil_constructors_painting_in_bangalore.jp2" crc="367600293" seo="true" mt="1573880226000"/>
+  </folder>
   <folder name="fonts">
     <file name="myriadpro-regular.woff" crc="3960264025"/>
     <file name="myriadpro-regular.eot" crc="357507949"/>
@@ -6,33 +9,36 @@
     <file name="myriadpro-bold.woff" crc="4284783996"/>
     <file name="myriadpro-bold.eot" crc="4279868340"/>
     <file name="myriadpro-bold.svg" crc="420417626"/>
+    <file name="muli.woff" crc="394260790"/>
+    <file name="muli.eot" crc="4147394348"/>
+    <file name="muli.svg" crc="3959694526"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4148298215"/>
-    <file name="master_a-master.css" crc="238193433" ref="index:interiors:building"/>
-    <file name="index.css" crc="3893955488" ref="index"/>
-    <file name="interiors.css" crc="367095331" ref="interiors"/>
-    <file name="building.css" crc="466090589" ref="building"/>
+    <file name="master_a-master.css" crc="2477258" ref="index:interiors:building:untitled-4"/>
+    <file name="index.css" crc="3981081000" ref="index"/>
+    <file name="interiors.css" crc="258370605" ref="interiors"/>
+    <file name="building.css" crc="271258122" ref="building"/>
+    <file name="untitled-4.css" crc="184016512" ref="untitled-4"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:building:interiors"/>
-    <file name="museutils.js" crc="340535759" ref="index:building:interiors"/>
-    <file name="whatinput.js" crc="86476730" ref="index:building:interiors"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:building:interiors"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:building:interiors:untitled-4"/>
+    <file name="museutils.js" crc="340535759" ref="index:building:interiors:untitled-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:building:interiors:untitled-4"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:building:interiors:untitled-4"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:building:interiors"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:building:interiors:untitled-4"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:building:interiors"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:building:interiors"/>
-    <file name="require.js" crc="7928878" ref="index:building:interiors"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:building:interiors:untitled-4"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:building:interiors:untitled-4"/>
+    <file name="require.js" crc="7928878" ref="index:building:interiors:untitled-4"/>
     <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="96785a4f7affaadeeeda0ac6adc43eff.jpg" crc="4292701440" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="96785a4f7affaadeeeda0ac6adc43eff.jpg" crc="4106806544" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -88,7 +94,7 @@
     </file>
     <file name="indian-modern-house-plans-house-design-architecture-plans-in-plan-shop-new-ideas-best-modern-inspirations-brick-modern-duplex-house-plans-india-buttonu1437-fr.jpg" crc="4262312949" ref="index"/>
     <file name="favicon.ico" crc="3978828784" ref="index"/>
-    <file name="png sb.png" crc="3880768796" seo="true" ref="index">
+    <file name="png sb.png" crc="3808433545" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="sf-sonic-pc-1000l-500x500.jpg" crc="4261326096" ref="index">
@@ -126,34 +132,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="1-kk-nagar-house-exterior-1-buttonu5427-fr.jpg" crc="139147891" ref="index"/>
-    <file name="0blz78jt-crop-u5127.jpg" crc="85985481" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4qq6jj6p-crop-u5238.jpg" crc="146224533" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bjmdne9v-crop-u5258.jpg" crc="3817313244" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hf6wh637-crop-u5278.jpg" crc="4070878931" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="0blz78jt-crop-u5120.jpg" crc="4265297788" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4qq6jj6p-crop-u5244.jpg" crc="479242994" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bjmdne9v-crop-u5264.jpg" crc="4132981248" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hf6wh637-crop-u5284.jpg" crc="4238061090" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="hf6wh637 (1).jpg" crc="42403401" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="69a2639_40_41_ips.jpg" crc="4119742216" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -219,46 +198,16 @@
     <file name="selecting right maerials.png" crc="382480868" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="house construction.png" crc="210315352" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="skilled worker selection.png" crc="3879008210" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="handing house key.png" crc="3784040120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="uni-crop-u4896.jpg" crc="171505433" seo="true" ref="index">
+    <file name="uni-crop-u4896.jpg" crc="427546630" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="planing and designing693x174.png" crc="221971180" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="arow.png" crc="3904690965" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="painting construction.png" crc="498901316" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="electrictian.png" crc="167776510" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="plumber.png" crc="4166198591" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="carpenter.png" crc="4210017328" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="house renovation.png" crc="302122490" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="property managment.png" crc="4099899913" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sinage board.png" crc="3928901604" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="frabication.png" crc="4027535738" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="launcher-icon-3x180x181.jpg" crc="39255800" seo="true" ref="index">
@@ -324,8 +273,432 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="smaart builders-cilvil contractor in bangalore banaswadi.jpg" crc="4181706659" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8369.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8371.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8367.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8365.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8381.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8383.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8379.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8377.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8043.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8045.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8041.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8039.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8055.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8057.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8053.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8051.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8695.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8697.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8693.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8691.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8707.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8709.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8705.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8703.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u7880.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u7882.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u7878.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u7876.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u7892.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u7894.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u7890.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u7888.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8532.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8534.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8530.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8528.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8544.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8546.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8542.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8540.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8206.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8208.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8204.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8202.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8218.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8220.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8216.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8214.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8858.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8860.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8856.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8854.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u8870.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u8872.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u8868.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u8866.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u7554.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u7556.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u7552.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u7550.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u7566.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u7568.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u7564.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u7562.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u10162.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u10164.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u10160.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u10158.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u10174.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u10176.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u10172.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u10170.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9184.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9186.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9182.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9180.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9196.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9198.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9194.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9192.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9836.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9838.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9834.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9832.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9848.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9850.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9846.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9844.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9510.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9512.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9508.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9506.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9522.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9524.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9520.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9518.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9999.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u10001.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9997.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9995.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u10011.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u10013.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u10009.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u10007.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9347.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9349.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9345.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9343.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9359.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9361.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9357.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9355.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9021.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9023.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9019.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9017.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9033.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9035.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9031.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9029.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9673.jpg" crc="3823881907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9675.jpg" crc="296772689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9671.jpg" crc="211968577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9669.jpg" crc="52298264" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0blz78jt-crop-u9685.jpg" crc="4265297788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4qq6jj6p-crop-u9687.jpg" crc="479242994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bjmdne9v-crop-u9683.jpg" crc="4132981248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hf6wh637-crop-u9681.jpg" crc="4238061090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="civil constructor bangalore soil test.png" crc="3928556900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="house construction-min.png" crc="3781680368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interiors civil contractor in bangalore.png" crc="38213443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="civil constructors painting in bangalore.jpg" crc="38586475" seo="true" ref="index">
+      <caption webpage="index" alt="civil contractor bangalore painter"/>
+    </file>
+    <file name="house painting.png" crc="108740138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smaart builders civil contractors electrician.jpg" crc="531246971" seo="true" ref="index">
+      <caption webpage="index" alt="civil contractor bangalore electric works"/>
+    </file>
+    <file name="smaart builders civil contractors carpenter.jpg" crc="3805296131" seo="true" ref="index">
+      <caption webpage="index" alt="civil contractor bangalore carpentary"/>
+    </file>
+    <file name="smaart builders civil contractors plumber.jpg" crc="103175106" seo="true" ref="index">
+      <caption webpage="index" alt="civil contractor bangalore plumbing"/>
+    </file>
+    <file name="smaart builders civil contractors renovation.jpg" crc="273295214" seo="true" ref="index">
+      <caption webpage="index" alt="civil contractor bangalore painter house renovation"/>
+    </file>
+    <file name="smaart builders civil contractors sinage board-crop-u10509.jpg" crc="185942084" seo="true" ref="index">
+      <caption webpage="index" alt="civil contractor bangalore property management"/>
+    </file>
+    <file name="smaart builders civil contractors signage board.jpg" crc="3814455651" seo="true" ref="index">
+      <caption webpage="index" alt="civil contractor bangalore sinage boards"/>
+    </file>
+    <file name="smaart builders civil contractors alluminium frabication.jpg" crc="184613918" seo="true" ref="index">
+      <caption webpage="index" alt="civil contractor bangalore alluminium frabrication"/>
+    </file>
   </folder>
-  <file name="index.html" crc="357725638" seo="true" mt="1570709233399" redirect="true"/>
-  <file name="building.html" crc="4130926215" seo="true" mt="1570709233399" redirect="true"/>
-  <file name="interiors.html" crc="3984225586" seo="true" mt="1570709233399" redirect="true"/>
+  <file name="index.html" crc="3884125346" seo="true" mt="1573985527091" redirect="true"/>
+  <file name="building.html" crc="3762808203" seo="true" mt="1573965080705" redirect="true"/>
+  <file name="interiors.html" crc="431118086" seo="true" mt="1573965080705" redirect="true"/>
+  <file name="untitled-4.html" crc="3869701971" seo="true" mt="1573965080705" redirect="true"/>
 </manifest>
